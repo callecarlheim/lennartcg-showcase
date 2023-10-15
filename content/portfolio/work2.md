@@ -2,7 +2,7 @@
 date = "2016-11-05T19:41:01+05:30"
 title = "Name of the work 2"
 draft = false
-image = "https://github.com/kishaningithub/hugo-creative-portfolio-theme/raw/master/exampleSite/static/img/portfolio/business-card.jpg"
+image = "https://github.com/callecarlheim/lennartcg-showcase/blob/main/assets/img/portfolio/Kol_bj%C3%B6rkar.jpg.JPG"
 showonlyimage = false
 weight = 1
 +++
