@@ -1,0 +1,32 @@
+baseurl = "https://www.lennartcg.se"
+title = "Konstnär Lennart Carlheim-Gyllensköld"
+theme = "hugo-creative-portfolio-theme"
+languageCode = "en-us"
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "green"
+  description = "Hemsida för Lennart Carlheim-Gyllensköld"
+  copyright = "&copy;2024: Lennart Carlheim-Gyllensköld"
+  sidebarAbout = [
+    "Jag är en konstnär som arbetar med många discipliner så som måleri, grafik, offentliga utsmyckningar, emalj och glasyrmåleri samt träsnideri.",
+    "Kontakta mig på info@lennartcg.se"
+  ]
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Startsida"
+  url = "portfolio/"
+  home = true
+
+  [[params.navlinks]]
+  name = "Mer om Lennart"
+  url = "about/"
+
+
+  [params.social]
+#  facebook      = "full page or profile url in facebook"
+  email         = "info@lennartcg.se"
