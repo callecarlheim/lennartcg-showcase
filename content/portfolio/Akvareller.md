@@ -1,8 +1,8 @@
 +++
-image = "img/portfolio/label-clothes.jpg"
-showonlyimage = false
-title = "Litografier till salu"
+title = "Akvareller till salu"
 draft = false
+image = "/img/Bjorkar_akvarell.JPG"
+showonlyimage = false
 weight = 1
 +++
 
@@ -28,7 +28,26 @@ Min signaturlitografi.
 Pris: 2000 :-  
 Storlek: 
 
+![Bjorkar](/img/Bjorkar_akvarell.JPG)
+
 ### Lord Nelson i bris
 
 Pris: 1.000 SEK/st  
 Storlek:
+
+
+
+### Titel
+
+Pris
+
+![Namn](/img/IMG_4237.JPG)
+
+
+### Titel
+
+Pris
+
+![Namn](/img/IMG_4239.JPG)
+
+
