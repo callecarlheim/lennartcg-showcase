@@ -18,7 +18,7 @@ Skicka mig gärna ett mail på info@lennartcg.se och berätta vilket verk du vil
 
 ### Björkar 
 
-Pris:  
+Pris: 3.000 :-
 Storlek:
 
 ![Bjorkar](/img/Kol_bjorkar.jpg)
@@ -26,7 +26,7 @@ Storlek:
 ### Skata i glänta
 
 
-Pris
+Pris: 3.000 :-
 
 ![Namn](/img/IMG_4150.JPG)
 
@@ -34,9 +34,9 @@ Pris
 
 ![Namn](/img/IMG_4151.JPG)
 
-### Titel
+### Måsmatning
 
-Pris
+Pris: 3.000:-
 
 ![Namn](/img/IMG_4152.JPG)
 
@@ -46,27 +46,27 @@ Pris
 
 
 
-### Titel
+### Eken
 
-Pris
+Pris: 3.000 :-
 
 ![Namn](/img/IMG_4219.JPG)
 
 
 
 
-### Titel
+### Snöfall
 
-Pris
+Pris: 3.000 :-
 
 ![Namn](/img/IMG_4231.JPG)
 
 
 
 
-### Titel
+### Plöjd åker
 
-Pris
+Pris: 5.000 :- (inramad)
 
 ![Namn](/img/IMG_4249.JPG)
 

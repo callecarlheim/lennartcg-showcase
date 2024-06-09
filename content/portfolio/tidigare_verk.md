@@ -12,6 +12,17 @@ Under mitt långa yrkesliv som konstnär har det blivit många verk. Här visar 
 
 ## Olja
 
+###  Kärringholmen
+
+
+![Bjorkar](/img/IMG_4164.JPG)
+
+
+### Borgberget
+
+
+![Namn](/img/IMG_4157.JPG)
+
 ### Ålsten spåret
 
 ![Bjorkar](/img/Tidigare_verk/Olja_Alsten_Sparet.jpg)
@@ -20,14 +31,54 @@ Under mitt långa yrkesliv som konstnär har det blivit många verk. Här visar 
 
 ![Bjorkar](/img/Tidigare_verk/Olja_Badholmen_vinter.jpg)
 
+### 4 askar
 
-## Akvareller
+![Namn](/img/IMG_4160.JPG)
+
+### Pilou
 
 
-## Kolteckningar
+![Namn](/img/IMG_4240.JPG)
 
 
 ## Pasteller
+
+
+### Ile 1
+
+
+![Namn](/img/IMG_1060.JPG)
+
+
+
+### Titel
+
+
+![Namn](/img/IMG_4148.JPG)
+
+
+
+### Titel
+
+
+
+![Namn](/img/IMG_4156.JPG)
+
+
+
+### Titel
+
+Pris
+
+![Namn](/img/IMG_4213.JPG)
+
+
+
+### Titel
+
+Pris
+
+![Namn](/img/IMG_4222.JPG)
 
 
 ## Grafik
@@ -37,4 +88,12 @@ Under mitt långa yrkesliv som konstnär har det blivit många verk. Här visar 
 
 
 ## Offentliga utsmyckningar
+
+
+
+## Akvareller
+
+
+## Kolteckningar
+
 

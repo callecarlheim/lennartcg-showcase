@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Konstnär Lennart Carlheim-Gyllensköld</title>
+    <link>https://www.lennartcg.se/</link>
+    <description>Recent content on Konstnär Lennart Carlheim-Gyllensköld</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://www.lennartcg.se/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Akvareller till salu</title>
+      <link>https://www.lennartcg.se/portfolio/akvareller/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lennartcg.se/portfolio/akvareller/</guid>
+      <description>&lt;p&gt;Litografierna är tryckta i små upplagor på högkvalitativt akvarellpapper.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Kolteckningar till salu</title>
+      <link>https://www.lennartcg.se/portfolio/kolteckningar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lennartcg.se/portfolio/kolteckningar/</guid>
+      <description>&lt;p&gt;Kolteckningarna är skapade med kolstift på akvarellpapper.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pasteller till salu</title>
+      <link>https://www.lennartcg.se/portfolio/pasteller/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lennartcg.se/portfolio/pasteller/</guid>
+      <description>&lt;p&gt;Mina pasteller är skapade med pastellkrita på akvarellpapper.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Oljemålningar till salu</title>
+      <link>https://www.lennartcg.se/portfolio/olja/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lennartcg.se/portfolio/olja/</guid>
+      <description>&lt;p&gt;Oljemålningar på pannå.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tidigare verk</title>
+      <link>https://www.lennartcg.se/portfolio/tidigare_verk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lennartcg.se/portfolio/tidigare_verk/</guid>
+      <description>&lt;p&gt;Under mitt långa yrkesliv som konstnär har det blivit många verk. Här visar jag några av dem.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -16,154 +16,127 @@ Om du är intresserad att köpa, skicka mig gärna ett mail på info@lennartcg.s
 
 ### Vallmo 
 
-Pris: 10.000 :-
+Pris: 7.000 :-
 
 ![Vallmo](/img/Vallmo.jpg)
 
 ### Höstskog
 
-Pris
+Pris: 7.000 :-
 
 ![Höstskog](/img/IMG_1058.JPG)
 
 
-### Titel
-
-Pris
-
-![Namn](/img/IMG_1060.JPG)
 
 
+### Île 2
 
-### Titel
+Pris: 3.000:-
 
-Pris
+Storlek: 70x50 cm
 
 ![Namn](/img/IMG_1060.JPG)
 
 
 
-### Titel
+### Île 3
 
-Pris
+Pris: 3.000:-
+
+Storlek: 70x50 cm
+
 
 ![Namn](/img/IMG_1063.JPG)
 
 
 
-### Titel
+### Île 4
 
-Pris
+Pris: 3.000:-
+
+Storlek: 70x50 cm
 
 ![Namn](/img/IMG_1064.JPG)
 
 
 
-### Titel
+### Île 5
 
-Pris
+Pris: 3.000 :-
+
+Storlek: 70x50 cm
 
 ![Namn](/img/IMG_1066.JPG)
 
 
 
 
-### Titel
+### Île 6
 
-Pris
+Pris: 3.000 :-
+
+Storlek: 70x50 cm
 
 ![Namn](/img/IMG_1067.JPG)
 
 
 
-### Titel
+### Île 7
 
-Pris
+Pris: 3.000 :-
+
+Storlek: 70x50 cm
 
 ![Namn](/img/IMG_1111.JPG)
 
 
 
-### Titel
+### Lövskog
 
-Pris
-
-![Namn](/img/IMG_4148.JPG)
-
-
-
-### Titel
-
-Pris
-
-![Namn](/img/IMG_4156.JPG)
-
-
-
-### Titel
-
-Pris
+Pris: 7.000:-
 
 ![Namn](/img/IMG_4209.JPG)
 
 
+### Vita snöbollar
 
-
-### Titel
-
-Pris
-
-![Namn](/img/IMG_4213.JPG)
-
-
-
-
-### Vita rosor
-
-Pris
+Pris: 5.000 :-
 
 ![Namn](/img/IMG_4216.JPG)
 
 
 
 
-### Titel
 
-Pris
+### Ett fackelblomster
 
-![Namn](/img/IMG_4222.JPG)
-
-
-
-
-### Titel
-
-Pris
+Pris: 5.000 :-
 
 ![Namn](/img/IMG_4226.JPG)
 
 
 
 
-### Titel
+### Vitsippor
 
-Pris
+Pris: 5.000 :-
 
 ![Namn](/img/IMG_4235.JPG)
 
 
 
 
-### Titel
+### Fjäril
 
-Pris
+
+Pris: 7.000:-
 
 ![Namn](/img/IMG_4242.JPG)
 
 
-### Titel
+### Linblommor
 
-Pris
+Pris: 7.000 :-
 
 ![Namn](/img/IMG_4241.JPG)
 

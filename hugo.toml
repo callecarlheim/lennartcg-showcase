@@ -1,4 +1,4 @@
-baseurl = "https://www.lennartcg.se"
+baseurl = "https://www.lennartcg.se/"
 title = "Konstnär Lennart Carlheim-Gyllensköld"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
