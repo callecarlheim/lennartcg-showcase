@@ -43,8 +43,25 @@ Under mitt långa yrkesliv som konstnär har det blivit många verk. Här visar 
 
 ![Pilou](/img/IMG_4240.JPG)
 
+### Trollhättan
+
+![Klippskrev](/img/Klippskreva.jpg)
+
+### Kvanne
+
+![KvanneKlippa](/img/KvanneKlippa.jpg)
+
+### Badberget
+
+![BadbergUdde](/img/BadbergUdde.jpg)
+
 ## Pasteller
 
+### Trollhättan
+![UtsiktOverFjarden](/img/UtsiktOverFjarden.jpg)
+
+### Skogsbrand
+![UtsiktOverFjarden](/img/Skogsbrand.JPG)
 
 ### Ile 1
 
@@ -63,10 +80,10 @@ Under mitt långa yrkesliv som konstnär har det blivit många verk. Här visar 
 ![Bretagne 1](/img/IMG_4213.JPG)
 
 
-### Titel
+### Askar
 
 
-![Namn](/img/IMG_4222.JPG)
+![Askar](/img/IMG_4222.JPG)
 
 ## Akvareller
 
@@ -79,21 +96,32 @@ Under mitt långa yrkesliv som konstnär har det blivit många verk. Här visar 
 
 ### Skata i glänta
 
-Pris: 3.000 :-
 
-![Namn](/img/IMG_4150.JPG)
+![Skata i glänta](/img/IMG_4150.JPG)
 
 
-![Namn](/img/IMG_4151.JPG)
+![Skata i glänta](/img/IMG_4151.JPG)
+
+
+## Keramik
+
+
+![KrukaKrasse](/img/KrukaKrasse.jpg)
+
+
+![LiggandeStoraKrukor](/img/LiggandeStoraKrukor.jpg)
+
+
+![Krukor_med_amaryllis](/img/Krukor_med_amaryllis.jpg)
+
+## Offentliga utsmyckningar
+
+Lampor i taket på Kulturhuset
+
+![LamporKulturhuset](/img/LamporKulturhuset.jpg)
+
 
 ## Grafik
 
 
 ## Emalj
-
-## Keramik
-
-
-## Offentliga utsmyckningar
-
-
