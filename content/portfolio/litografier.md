@@ -15,12 +15,6 @@ Litografierna är tryckta i små upplagor på högkvalitativt papper.
 Skicka mig gärna ett mail på info@lennartcg.se och berätta vilket verk du är intresserad av.  
 Du är välkommen att titta på tavlorna i min ateljé på Mariaberget på Södermalm.
 
-### Årstider i skärgården
-
-Pris: 1.500 SEK/st, 5.000 SEK för alla fyra.  
-
-Storlek:
-
 
 ### Björkar
 
@@ -30,6 +24,14 @@ Pris: 1.500 :-
 Storlek: 
 
 ![Bjorkar](/img/Bjorkar_akvarell.JPG)
+
+### Årstider i skärgården
+
+![Målar vid Vita stugan](/img/4-arsider.JPG)
+
+Pris: 1.500 SEK/st, 5.000 SEK för alla fyra.  
+
+Storlek: ca A3
 
 
 

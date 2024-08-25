@@ -21,25 +21,27 @@ Under mitt långa yrkesliv som konstnär har det blivit många verk. Här visar 
 ### Borgberget
 
 
-![Namn](/img/IMG_4157.JPG)
+![Borgberget](/img/IMG_4157.JPG)
 
 ### Ålsten spåret
 
-![Bjorkar](/img/Tidigare_verk/Olja_Alsten_Sparet.jpg)
+![Ålsten spåret](/img/Tidigare_verk/Olja_Alsten_Sparet.jpg)
 
 ### Badholmen vinter
 
-![Bjorkar](/img/Tidigare_verk/Olja_Badholmen_vinter.jpg)
+![Badholmen vinter](/img/Tidigare_verk/Olja_Badholmen_vinter.jpg)
 
 ### 4 askar
 
-![Namn](/img/IMG_4160.JPG)
+![4 askar](/img/IMG_4160.JPG)
 
 ### Pilou
 
 
-![Namn](/img/IMG_4240.JPG)
+![Pilou](/img/IMG_4240.JPG)
 
+
+![Pilou](/img/IMG_4240.JPG)
 
 ## Pasteller
 
@@ -50,50 +52,48 @@ Under mitt långa yrkesliv som konstnär har det blivit många verk. Här visar 
 ![Namn](/img/IMG_1060.JPG)
 
 
-
-### Titel
-
-
-![Namn](/img/IMG_4148.JPG)
+### Tofsvipa i strandkanten
 
 
+![Tofsvipa i strandkanten](/img/IMG_4156.JPG)
 
-### Titel
+### Bretagne 1
 
 
-
-![Namn](/img/IMG_4156.JPG)
-
+![Bretagne 1](/img/IMG_4213.JPG)
 
 
 ### Titel
 
-Pris
-
-![Namn](/img/IMG_4213.JPG)
-
-
-
-### Titel
-
-Pris
 
 ![Namn](/img/IMG_4222.JPG)
 
+## Akvareller
+
+### Frippes hus
+
+![Frippes hus](/img/Frippes-hus.jpg)
+
+
+## Kolteckningar
+
+### Skata i glänta
+
+Pris: 3.000 :-
+
+![Namn](/img/IMG_4150.JPG)
+
+
+![Namn](/img/IMG_4151.JPG)
 
 ## Grafik
 
 
 ## Emalj
 
+## Keramik
+
 
 ## Offentliga utsmyckningar
-
-
-
-## Akvareller
-
-
-## Kolteckningar
 
 
